@@ -1,0 +1,8 @@
+! Title: Huge AI Blocklist -- using ':has()'
+! Expires: 1 day
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+!
+! Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+! PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+
