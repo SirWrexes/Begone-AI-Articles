@@ -18,7 +18,7 @@ Supported search engines:
 Open uBlock Origin settings, go to `Filter Lists` tab, all the way at the bottom expand `Import...` and paste the
 following link in the box:
 ```
-https://github.com/SirWrexes/Begone-AI-Articles/blob/main/begone.txt
+https://raw.githubusercontent.com/SirWrexes/Begone-AI-Articles/refs/heads/main/begone.txt
 ```
 
 ## Aknowledgements
@@ -27,5 +27,5 @@ https://github.com/SirWrexes/Begone-AI-Articles/blob/main/begone.txt
 Nice in theory but, in practice, the sheer quantity of sites with the use of `:upwwards():remove()` is quite suboptimal.  
 If you want to use it with the more modern `:has()` approach, you can import the following list in your uBO settings:
 ```
-https://github.com/SirWrexes/Begone-AI-Articles/blob/main/huge.txt
+https://raw.githubusercontent.com/SirWrexes/Begone-AI-Articles/refs/heads/main/huge.txt
 ```
