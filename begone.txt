@@ -1,8 +1,18 @@
+! Title: Begone AI articles
+! Expires: 1 day
+! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+! Homepate: https://github.com/SirWrexes/Begone-AI-Articles/
+!
+! Issues: https://github.com/SirWrexes/Begone-AI-Articles/issues
+! PRs: https://github.com/SirWrexes/Begone-AI-Articles/pulls
+
+||linuxvox.com^$document
 duckduckgo.com##li[data-layout="organic"]:has(a[href*="linuxvox.com"])
 duckduckgo.com##.tile:has(a[href*="linuxvox.com"])
 google.*##.g:has(a[href*=linuxvox.com])
 yandex.*##.serp-item:has(a[href*="linuxvox.com"])
 yandex.*##li.serp-item:has(a[href*="linuxvox.com"])
+||slingacademy.com^$document
 duckduckgo.com##li[data-layout="organic"]:has(a[href*="slingacademy.com"])
 duckduckgo.com##.tile:has(a[href*="slingacademy.com"])
 google.*##.g:has(a[href*=slingacademy.com])
